@@ -1,134 +1,126 @@
-<h1 align="center">👋 Olá, eu sou o Igor Costa Oliveira</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Coding Animation" width="80" />
+  <br/>
+  Igor Costa Oliveira
+</h1>
+
 <h3 align="center">
-  Desenvolvedor Front-end Sênior • Product Mindset • Clean Code • UI/UX Craftsmanship
+  Desenvolvedor Front-end Sênior & Product Mindset • Clean Code • UI/UX Craftsmanship
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Dev.;Product+Mindset.;Performance+Matters.;Innovation+Always." width="500" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=8A2BE2&width=500&height=40&lines=React+Dev.;Clean+Code+Advocate.;Innovation+Always.;Performance+First." alt="Typing SVG"/>
 </div>
 
 ---
 
-<!-- Hora do dia para GIF dinâmico -->
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Coder GIF"
-    id="dailyGif"
-    width="400"
-  />
-</p>
+<!-- Barra de progresso animada da stack com CSS embutido -->
+<style>
+  progress {
+    width: 100%;
+    height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: inset 0 2px 5px rgba(0,0,0,0.2);
+  }
+  progress::-webkit-progress-bar {
+    background-color: #eee;
+  }
+  progress::-webkit-progress-value {
+    background-image: linear-gradient(45deg, #6a11cb, #2575fc);
+    animation: progress-animation 3s ease-in-out infinite;
+  }
+  @keyframes progress-animation {
+    0% {background-position: 0 0;}
+    100% {background-position: 40px 0;}
+  }
+</style>
 
-<script>
-  (() => {
-    const hour = new Date().getHours();
-    const img = document.getElementById('dailyGif');
-    if(!img) return; // fallback no GitHub
-    if(hour >= 5 && hour < 12) {
-      img.src = "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"; // manhã
-    } else if(hour >= 12 && hour < 18) {
-      img.src = "https://media.giphy.com/media/3orieXUxYlLKFvJwYS/giphy.gif"; // tarde
-    } else {
-      img.src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"; // noite
-    }
-  })();
-</script>
+## 👨‍💻 Sobre Mim
 
----
+Sou um desenvolvedor front-end sênior que transforma código em experiências digitais fluidas, escaláveis e altamente performáticas. Meu foco? Usuário, produto e inovação constante.
 
-## 👨‍💻 Sobre mim
-
-Sou um desenvolvedor front-end **sênior**, apaixonado por construir interfaces **incríveis, performáticas e escaláveis** com foco total no usuário.
-
-- 🧠 **Mentalidade:** Código que gera valor, fácil de manter e evoluir  
-- 🧩 **Skillset:** Componentes coesos, reutilizáveis e testados  
-- 🚀 **Experiência:** Liderança em arquiteturas, migrações e entregas críticas
-
-> "Se tem bug, eu caço. Se tem caos, eu organizo. Se tem ideia, eu executo."
+> <i>"O código perfeito não existe, mas o melhor possível é o que torna o impossível, realidade."</i> – Igor Costa
 
 ---
 
-## 🧠 Tech Stack & Skills
+## 🧠 Minha Stack & Proficiência (com animação)
 
-<p align="center" style="max-width: 600px;">
-  <b>JavaScript</b>  
-  <progress max="100" value="95" style="width: 100%;"></progress>  
-</p>
-<p align="center" style="max-width: 600px;">
-  <b>TypeScript</b>  
-  <progress max="100" value="90" style="width: 100%;"></progress>  
-</p>
-<p align="center" style="max-width: 600px;">
-  <b>React & Next.js</b>  
-  <progress max="100" value="95" style="width: 100%;"></progress>  
-</p>
-<p align="center" style="max-width: 600px;">
-  <b>TailwindCSS</b>  
-  <progress max="100" value="85" style="width: 100%;"></progress>  
-</p>
-<p align="center" style="max-width: 600px;">
-  <b>Firebase & Node.js</b>  
-  <progress max="100" value="80" style="width: 100%;"></progress>  
-</p>
-<p align="center" style="max-width: 600px;">
-  <b>Testing (Jest, Cypress)</b>  
-  <progress max="100" value="70" style="width: 100%;"></progress>  
-</p>
+| Tecnologia      | Proficiência       |
+|-----------------|--------------------|
+| JavaScript      | <progress value="95" max="100"></progress> |
+| TypeScript      | <progress value="90" max="100"></progress> |
+| React & Next.js | <progress value="95" max="100"></progress> |
+| TailwindCSS     | <progress value="85" max="100"></progress> |
+| Firebase        | <progress value="80" max="100"></progress> |
+| Node.js         | <progress value="80" max="100"></progress> |
+| Testing (Jest, Cypress) | <progress value="75" max="100"></progress> |
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Stats & Linguagens
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igaodeveloper&show_icons=true&theme=radical&count_private=true" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=igaodeveloper&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igaodeveloper&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igaodeveloper&theme=dracula" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igaodeveloper&hide=html,css&langs_count=6&theme=radical" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igaodeveloper&langs_count=6&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
 
 ---
 
 ## 📡 Contato & Redes
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/igor-costa-oliveira-673866169/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:igorhawking@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://igao404.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+</div>
 
 ---
 
-## 🎯 Projetos Entusiasmados [CONTADOR DE PROJETOS] (Atualize manualmente!)
+## ⚡ Tech Glow Animation
 
-<p align="center" style="font-size: 1.2rem; font-weight: bold;">
-  Total de projetos entregues: <span style="color:#FF0080;">23</span>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/igaodeveloper/igaodeveloper/main/assets/tech-glow.gif" alt="Tech Glow Animation" width="250" />
+</div>
+
+*Obs: O GIF acima é uma representação visual dos seus skills brilhando — impressionante em qualquer tela.*
 
 ---
 
-## 🧭 Filosofia & Quotes Dinâmicas (Refresh para mudar)
+## 🚀 Contador de Impactos (Atualize manualmente)
 
-<p align="center" id="quote">
-  “O melhor código é invisível para o usuário e inesquecível para o time.” — Igor Costa
-</p>
+<div align="center" style="font-size: 1.5rem; font-weight: bold; color: #8A2BE2;">
+  Total de projetos impactantes entregues: <span id="projCount">23</span>
+</div>
+
+---
+
+## 🎯 Quotes de inspiração (mude toda vez que abrir)
+
+<div align="center" style="font-style: italic; font-size: 1.1rem; margin-top: 10px;" id="quoteContainer">
+  "O melhor código é invisível para o usuário e inesquecível para o time." — Igor Costa
+</div>
 
 <script>
   (() => {
     const quotes = [
       "O melhor código é invisível para o usuário e inesquecível para o time. — Igor Costa",
-      "Código limpo não é escrever menos, é escrever o que importa. — Igor Costa",
+      "Código limpo é escrever o que importa, nada mais. — Igor Costa",
       "Não basta saber o que fazer; é preciso saber por quê e para quem. — Igor Costa",
-      "Código é comunicação. Escreva para humanos, não para máquinas. — Igor Costa"
+      "Código é comunicação. Escreva para humanos, não para máquinas. — Igor Costa",
+      "Performance não é um detalhe, é o coração da experiência. — Igor Costa"
     ];
-    const el = document.getElementById("quote");
-    if(!el) return; // fallback no GitHub
+    const el = document.getElementById('quoteContainer');
+    if(!el) return;
     const idx = Math.floor(Math.random() * quotes.length);
     el.innerText = quotes[idx];
   })();
@@ -136,36 +128,28 @@ Sou um desenvolvedor front-end **sênior**, apaixonado por construir interfaces 
 
 ---
 
-## 🔥 Status Atual do Perfil (via Iframe hack)
+## 📅 Status Atual & Atividade
 
-<p align="center">
-  <iframe src="https://wakatime.com/share/@igaodeveloper/latest.svg" width="600" height="120" frameBorder="0"></iframe>
-</p>
-
----
-
-> **Nota:** Alguns scripts e tags HTML não funcionam no GitHub nativo (limitação da plataforma).  
-> **Mas** o uso de badges, imagens dinâmicas e hacks com iframes já levam seu perfil a outro nível.
+<div align="center">
+  <img src="https://wakatime.com/share/@igaodeveloper/latest.svg" alt="WakaTime Stats" width="600" />
+</div>
 
 ---
 
-# Instruções para usar:
+## 🖥️ Demo Interativa (embed fake console)
 
-- Crie o repositório `igaodeveloper` no seu GitHub  
-- Adicione este conteúdo no `README.md`  
-- Substitua o número no contador de projetos (23) para o seu número real  
-- Aproveite a **vibe inovadora e diferenciada** do seu perfil
+<div align="center" style="background:#111; border-radius:10px; padding:20px; color:#0f0; font-family: 'Courier New', Courier, monospace; max-width: 600px; margin: 0 auto;">
 
----
+<pre>
+<span style="color:#0ff;">$</span> git clone https://github.com/igaodeveloper/igaodeveloper.git
+<span style="color:#0ff;">$</span> cd igaodeveloper
+<span style="color:#0ff;">$</span> npm install
+<span style="color:#0ff;">$</span> npm run dev
+</pre>
 
-Quer que eu crie uma versão com:
-
-- Cards animados e interativos (HTML + CSS puro dentro do README)  
-- Showcase dinâmico de projetos com GIFs e links  
-- Contador automático via API ou bot (integrando com GitHub Actions)  
-
-Me fala que eu já coloco no forno.
+<p style="color:#666; font-size:0.8rem; margin-top: -15px;">*Clone meu perfil, explore e aprenda.*</p>
+</div>
 
 ---
 
-**Bora dominar o mundo tech com esse perfil na lata.**
+## 🚀 Let's build the future, one commit at a time.
