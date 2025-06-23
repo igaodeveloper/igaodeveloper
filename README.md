@@ -1,113 +1,116 @@
-<!-- HEADER ESTILOSO -->
+<!-- HEADER VISUAL -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=8A2BE2&height=150&section=header&text=Igor%20Costa%20Oliveira&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=8A2BE2&height=140&section=header&text=Igor%20Costa%20Oliveira&fontColor=ffffff&fontSize=36&animation=fadeIn" />
 </h1>
 
-<h3 align="center">
-  Desenvolvedor Front-end Sênior · Especialista em UX, Performance e Produto
-</h3>
+<h3 align="center">Front-end Sênior • UX Oriented • Criador de Experiências Imersivas</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=435&lines=React%2FNext+Expert;Clean+Code+Evangelist;Product+Driven+Development;Design+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=React%2FNext+Expert;Clean+Code+%2B+UX+%2B+Performance%3D🔥;Criando+o+DevVerse+com+alma+de+produto" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=igaodeveloper&label=Visitantes&color=8A2BE2&style=flat-square" alt="contador de visitantes" />
 </p>
 
 ---
 
-## ☕ Sobre Mim
+## 🧠 Sobre mim
 
-Sou um desenvolvedor front-end sênior focado em construir experiências digitais intuitivas, performáticas e modernas.
-
-- 🧠 Pensamento modular e arquitetura escalável  
-- 🎯 Obcecado por entrega de valor com impacto real  
-- 🧩 Colaboração com times multidisciplinares  
-
-> “Software não é só lógica, é empatia em pixels.”
+Sou um dev que codifica com propósito e desenha experiências com intenção.  
+Apaixonado por performance, design e código que emociona.
 
 ---
 
-## 🧰 Tech Stack
+## 📂 Terminal Fake
+
+~/igaodeveloper$ ls projetos
+📁 devverse
+📁 uxlab
+📁 react-components
+📁 ai-starters
+
+~/igaodeveloper$ cd devverse
+
+Projeto em andamento. A rede social gamificada para devs. 🚀
+
+~/igaodeveloper$ help
+
+Comandos: [clone] [contato] [galeria] [status] [secreto]
+---
+
+## 🎨 Galeria de Projetos (Fake Modal)
+
+| Projeto | Descrição | Link |
+|--------|-----------|------|
+| 🧩 DevVerse | Rede social gamificada para devs | [Ver](https://devverse.vercel.app) |
+| 💼 Portfólio | Personalizado com animações e dark mode | [Ver](https://igao404.vercel.app) |
+| 📦 UI Kit | Componentes React com Tailwind | [Ver](https://github.com/igaodeveloper/react-ui-kit) |
+| 🤖 AI Starters | Templates com IA e Firebase | [Ver](https://github.com/igaodeveloper/ai-starters) |
+
+---
+
+## 🧰 Stack Técnica
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,node,firebase,jest,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,node,firebase,jest,git,figma" />
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 📈 Produtividade em Tempo Real
+
+<p align="center">
+  <img src="https://wakatime.com/share/@igaodeveloper/latest.svg" width="80%" />
+</p>
+
+---
+
+## 🧠 Nível Técnico
+
+| Tecnologia     | Nível |
+|----------------|-------|
+| React/Next     | 🟣🟣🟣🟣🟣 |
+| TypeScript     | 🟣🟣🟣🟣⚪ |
+| TailwindCSS    | 🟣🟣🟣🟣⚪ |
+| Firebase       | 🟣🟣🟣⚪⚪ |
+| Node.js        | 🟣🟣🟣⚪⚪ |
+| Testes         | 🟣🟣🟣⚪⚪ |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igaodeveloper&show_icons=true&theme=radical&border_radius=20" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igaodeveloper&theme=radical&border_radius=20" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=igaodeveloper&show_icons=true&theme=radical&border_radius=16" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=igaodeveloper&theme=radical&border_radius=16" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igaodeveloper&layout=compact&theme=radical&border_radius=20" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igaodeveloper&layout=compact&theme=radical&border_radius=16" width="60%" />
 </p>
 
 ---
 
-## 📅 WakaTime - Código em Tempo Real
+## 📬 Contato Rápido
 
 <p align="center">
-  <img src="https://wakatime.com/share/@igaodeveloper/latest.svg" alt="WakaTime Stats" width="80%" />
+  <a href="mailto:igorhawking@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/igor-costa-oliveira-673866169"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://igao404.vercel.app"><img src="https://img.shields.io/badge/portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧠 Nível de Proficiência
+## 🥷 Easter Egg
 
-| Tecnologia         | Nível                           |
-|--------------------|----------------------------------|
-| **JavaScript**     | 🟣🟣🟣🟣🟣 (Avançado)             |
-| **TypeScript**     | 🟣🟣🟣🟣⚪ (Avançado)             |
-| **React / Next.js**| 🟣🟣🟣🟣🟣 (Especialista)         |
-| **TailwindCSS**    | 🟣🟣🟣🟣⚪ (Avançado)             |
-| **Firebase**       | 🟣🟣🟣🟣⚪ (Intermediário+)       |
-| **Node.js**        | 🟣🟣🟣⚪⚪ (Intermediário)        |
-| **Testes**         | 🟣🟣🟣⚪⚪ (Intermediário)        |
+<details>
+<summary>👀 Spoiler escondido (clique aqui)</summary>
 
-> 🟣 = domínio · ⚪ = expansão
-
----
-
-## 🖥️ Terminal Fake (Clone meu perfil)
-
-~/meu_perfil_igor$ git clone https://github.com/igaodeveloper
-Clonando repositório...
-Conectando à criatividade infinita...
-100% | Interface pronta para te surpreender 🚀
----
-
-## 📬 Contato & Links
-
-<p align="center">
-  <a href="mailto:igorhawking@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/igor-costa-oliveira-673866169/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://igao404.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🔥 Frases que movem código
-
-> “Código limpo é empatia em forma de sintaxe.”  
-> “O melhor bug é o que você evita antes de escrever.”  
-> “UX é backend emocional. Front-end é empatia renderizada.”  
-> “Build algo que você mesmo usaria todos os dias.”  
-
----
-
-## 🚀 Status atual
-
-🎯 Trabalhando em projetos que misturam interatividade, gamificação e redes sociais para devs.  
-🔬 Explorando IA, performance em larga escala e micro frontends.
-
----
-
-<h4 align="center">Obrigado pela visita. Agora bora construir algo que mude o jogo. 👊🚀</h4>
+```css
+/* 
+  Parabéns por fuçar!
+  Visite https://igao404.vercel.app/secreto
+  e me diga que encontrou este easter egg!
+*/
+</details>
